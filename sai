@@ -2,4 +2,5 @@ a = 'satyasaibrahma'
 print(a[2])
 
 print(a[2:7])
+print(a[3:6])
 
